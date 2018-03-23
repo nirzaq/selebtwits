@@ -128,10 +128,11 @@ html, body {
  flex: 1;
 }
 
-/* #topSeven {
-  display: none;
-} */
-
+.rank-badge {
+  background-image: url(/static/gold-medal.svg);
+  width: 15px;
+  height: 15px;
+}
 .spinner {
   text-align: center;
 }

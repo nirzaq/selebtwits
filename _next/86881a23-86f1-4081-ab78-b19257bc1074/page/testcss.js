@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/testcss",function(){var e=webpackJsonp([6],{219:function(e,t,r){e.exports=r(220)},220:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:true});var n=r(0);var a=r.n(n);t["default"]=function(){return a.a.createElement("div",{className:"example"},"Hello World!")}}},[219]);return{page:e.default}});
